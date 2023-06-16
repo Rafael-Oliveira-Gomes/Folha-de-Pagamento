@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bw5MagIL3l+7CqxtNvTMRR2G67PBUR0abj4JitwQC3SutvIYm5QP9noc5iY0f39p+kIwkXOyWGiC3pijKbOHag==",
+  "dgSpecHash": "lfLaOJRObFxIdQm/m+Skh3JPSI3YGmnmBuG7Htto1jPA13cE37BNdHz6iutQkoMqfUD2QSXy9AKwtNdmxVx8yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafael.gomes\\Desktop\\rafa\\Code\\ForPonto\\ForPonto\\ForPonto.csproj",
+  "projectFilePath": "C:\\Code\\ForPonto\\ForPonto\\ForPonto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafael.gomes\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\rafael.gomes\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
